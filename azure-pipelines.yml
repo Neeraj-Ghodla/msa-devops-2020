@@ -2,8 +2,7 @@ trigger:
 - master
 
 variables:
-  rootDir: '/'
-  buildDir: '$(rootDir)/build'
+  buildDir: '/build'
 
 pool:
   vmImage: 'ubuntu-latest'
