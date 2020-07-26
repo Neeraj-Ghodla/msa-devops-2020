@@ -1,6 +1,7 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+
+// This codes lives in the develop branch
 
 function App() {
   return (
